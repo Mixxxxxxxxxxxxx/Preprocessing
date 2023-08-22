@@ -1,6 +1,5 @@
 """
-Name:Tamanna Das
-Student ID: 33059047
+
 Description: Parser class to create functions that can be used to create visualization
 Creation date: 23rd October 2022
 Last modified date: 4th November 2022
