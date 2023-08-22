@@ -1,6 +1,5 @@
 """
-Name:Tamanna Das
-Student ID: 33059047
+
 Description: This part is used to create visualization by calling methods from the parser class
 Creation date: 27th October 2022
 Last modified date: 4th November 2022
