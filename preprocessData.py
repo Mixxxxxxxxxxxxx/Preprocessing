@@ -1,6 +1,5 @@
 """
-Name: Tamanna Das
-StudentId: 33059047
+
 Description: This part of the program is to derive a clean body from the function preprocess line and splitting the file into question and answer text files
 Creation date: 21st October 2022
 Last modified date: 4th November 2022
